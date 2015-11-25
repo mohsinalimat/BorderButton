@@ -13,6 +13,8 @@
 		F9BE06941C05CEFA001B8F7B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F9BE06931C05CEFA001B8F7B /* Assets.xcassets */; };
 		F9BE06971C05CEFA001B8F7B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F9BE06951C05CEFA001B8F7B /* LaunchScreen.storyboard */; };
 		F9BE069F1C05CF2B001B8F7B /* CustomBorderButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9BE069E1C05CF2B001B8F7B /* CustomBorderButton.swift */; };
+		F9BE06A21C05DF63001B8F7B /* Demo1.tiff in Resources */ = {isa = PBXBuildFile; fileRef = F9BE06A01C05DF63001B8F7B /* Demo1.tiff */; };
+		F9BE06A31C05DF63001B8F7B /* Demo2.tiff in Resources */ = {isa = PBXBuildFile; fileRef = F9BE06A11C05DF63001B8F7B /* Demo2.tiff */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		F9BE06961C05CEFA001B8F7B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F9BE06981C05CEFA001B8F7B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F9BE069E1C05CF2B001B8F7B /* CustomBorderButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomBorderButton.swift; sourceTree = "<group>"; };
+		F9BE06A01C05DF63001B8F7B /* Demo1.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = Demo1.tiff; sourceTree = "<group>"; };
+		F9BE06A11C05DF63001B8F7B /* Demo2.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = Demo2.tiff; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +60,8 @@
 		F9BE068B1C05CEFA001B8F7B /* BorderButton */ = {
 			isa = PBXGroup;
 			children = (
+				F9BE06A01C05DF63001B8F7B /* Demo1.tiff */,
+				F9BE06A11C05DF63001B8F7B /* Demo2.tiff */,
 				F9BE068C1C05CEFA001B8F7B /* AppDelegate.swift */,
 				F9BE068E1C05CEFA001B8F7B /* ViewController.swift */,
 				F9BE069E1C05CF2B001B8F7B /* CustomBorderButton.swift */,
@@ -126,8 +132,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				F9BE06971C05CEFA001B8F7B /* LaunchScreen.storyboard in Resources */,
+				F9BE06A31C05DF63001B8F7B /* Demo2.tiff in Resources */,
 				F9BE06941C05CEFA001B8F7B /* Assets.xcassets in Resources */,
 				F9BE06921C05CEFA001B8F7B /* Main.storyboard in Resources */,
+				F9BE06A21C05DF63001B8F7B /* Demo1.tiff in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
